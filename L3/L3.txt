@@ -1,0 +1,4 @@
+Block Element Tag: <H1> <H2> <H3> <H4> <H5> <H6> <P> <Hr/> <Br/> <Ul> <Ol> <Li>
+<Ul> <Ol> Tag Attribute Property Like Type=”…” Start=”…” Align=”…”
+Create Nested List Using <Ul> <Ol>
+Inline Element Tag: <Em> <Strong> <Sub> <Sup> <Ins> <S> <Mark>

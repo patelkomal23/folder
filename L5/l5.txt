@@ -1,0 +1,5 @@
+<Form> <Select> <Option> <Textarea> <Button>
+<Input Type=”Text, Email, Password, Tel, Number, File, Date, Radio, Checkbox”/>
+Button Tag Attribute Property Like Type=”Reset”, Type=”Submit”
+Required, Selected Attribute
+Input Field Attribute Like Name, Value, Placeholder

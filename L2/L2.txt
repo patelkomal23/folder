@@ -1,0 +1,20 @@
+*IMAGE TAG
+attributes:
+ -src
+ -height
+ -width
+ -alt
+ 
+ *MARQUEE TAG
+
+ attributes:
+ -beaviour
+ -scrollamount
+ -direation
+ -loop
+ -bgcolor
+
+ <Img/> <Marquee>
+Img Tag Attribute Property Like Src=”.Png/.Jpg/.Gif” Title=”…” Alt=”…” Width=”…” Height=”…”
+Marquee Tag Attribute Property Like Direction=”…” Behavior=”…” Scrollamount=”…”
+Img Attach Using Offline / Online Link

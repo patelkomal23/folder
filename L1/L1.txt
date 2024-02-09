@@ -1,0 +1,21 @@
+INTRODUCTION OF HTML
+
+HTML- Hyper Text Markup Language
+
+Defination:(HTML) is the set of markup symbols or codes inserted into a file intended for display on the Internet. The markup tells web browsers how to display a web page's words and images.
+
+File Extention : .html
+
+History:
+Founder: Tim Berners-lee 
+Year of invention: 1980
+
+Tag: keywords which defines that how web browser will format and display the content
+
+Element:An HTML element is defined by a start tag, some content, and an end tag.
+Examples:<tagname>......</tagname>,<h1>to<h6>(use for give title),<p>,<ui>,<ui>,etc
+
+Attributes: attributes are special words which provide additional information about the elements.
+Examples:For img : src,alt,height,width
+	 Size,color,etc
+

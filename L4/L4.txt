@@ -1,4 +1,4 @@
 <a href=” …” target=” …” > href [hypertext reference]
 describe types of link (bookmark link, internal link & external link)
 <font> tag attribute property like face=”…” color=”…”
-use of html entity ( , ©) Ex. Create internal link with target attribute
+use of html entity ( , ©) 
